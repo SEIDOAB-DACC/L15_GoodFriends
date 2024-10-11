@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3109d275-849b-45b3-a493-a5631aafee6d/resourceGroups/data-access-course/providers/Microsoft.Web/sites/AppGoodFriendsWebApiNet8",
+    "appService.deploySubpath": "AppGoodFriendsWebApi/publish"
+}
