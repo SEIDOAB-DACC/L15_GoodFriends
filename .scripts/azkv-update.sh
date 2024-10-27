@@ -9,7 +9,7 @@
 
 #USER INPUT
 #check the container name created by above script 
-AzureCliContainer=kind_kapitsa
+AzureCliContainer=azurecli
 #END USER INPUT
 
 #start the container $AzureCliContainer in Docker Desktop
